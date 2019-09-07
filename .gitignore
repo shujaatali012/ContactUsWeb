@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/packages
+/src/WebApp.DataAccess/bin/Debug
+/src/WebApp.DataAccess/obj/Debug
+/src/WebApp.Host/bin
+/src/WebApp.Host/obj
+/src/WebApp.Host/Uploads

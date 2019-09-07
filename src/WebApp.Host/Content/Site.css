@@ -1,0 +1,122 @@
+﻿@media (min-width: 1300px) {
+    .container {
+        width: 1520px;
+    }
+}
+
+* {
+    border-radius: 0px !important;
+}
+
+body {
+    padding-top: 50px;
+}
+
+.body-content {
+    padding-left: -15px;
+    padding-right: 15px;
+}
+
+.left-nav {
+    background-color: #eee;
+    height: 86vh;
+    padding: 0 !important;
+    margin-left: -7px;
+}
+
+.navbar-nav li {
+    display: block;
+    width: 100%;
+    border-bottom: 1px solid #cccccc;
+}
+
+.navbar-nav > li > a {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    display: inline-block;
+}
+
+.navbar-nav > li > i {
+    margin-left: 1em
+}
+
+.navbar-nav > li > a.active {
+    background: #303030;
+    color: #fff
+}
+
+.active {
+    background: #d3d3d3;
+}
+
+
+
+input,
+select,
+textarea {
+    max-width: 320px;
+}
+
+.navbar-collapse {
+    width: 100% !important;
+    border-top: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    padding: 0;
+}
+
+.navbar-nav {
+    float: left;
+    width: 100%;
+}
+
+.inner-area {
+    margin-top: 15px;
+    text-align: center;
+}
+
+footer {
+    background: #ddd;
+    padding: 10px;
+}
+
+    footer > p {
+        text-align: center;
+        padding-top: 15px;
+        margin-bottom: 0px;
+    }
+
+/* ContactUs page style */
+
+.required {
+    color: red
+}
+
+.btn-upload {
+    display: inline-block;
+    width: 38px;
+    height: 33px;
+    margin-top: -4px;
+}
+
+.btn-send-container {
+    text-align: center;
+}
+
+.btn-send {
+    width: 50%;
+}
+
+.success-message {
+    width:96%;
+    text-align:center;
+}
+
+#success_message, #error_message {
+    display: none;
+}
+
+
+/* ContactUs page style - End */
+
+
