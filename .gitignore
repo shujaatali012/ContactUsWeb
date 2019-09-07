@@ -8,4 +8,4 @@
 /src/WebApp.DataAccess/obj/Debug
 /src/WebApp.Host/bin
 /src/WebApp.Host/obj
-/src/WebApp.Host/Uploads
+/src/WebApp.Host/Uploads/*
